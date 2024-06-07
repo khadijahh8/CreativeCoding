@@ -1,0 +1,11 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  background-image: url('https://i.pinimg.com/564x/ce/1f/9a/ce1f9aaf9e28cb68281cdfbf932e0c96.jpg');
+  background-size: cover; 
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
